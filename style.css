@@ -11,18 +11,3 @@
     font-size: 18px;
 }
  #map { height: 100vh; } 
- /* viewport height -vh  */
-#n1,#n2{
-    padding:5 px;
-    border-radius : 5px;
-}
-#result,#buttonadd{
-    border: 1px solid red;
-    height : 50px;
-    width : 50px;
-    border-radius: 5px;
-}
-#buttonadd:hover{
-    background-color: green;
-    color: pink;
-}
