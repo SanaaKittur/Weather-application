@@ -1,5 +1,5 @@
 # Weather-application
-This application gives the location details of the place clicked on the map by the user.
+This application gives the location and whether details of the place clicked on the map by the user.
 ## Implementation
 * There are html, javascript and CSS files created for this project.
 * The javascript file contains all the functions written for - fetching the APIs; getting the curernt position i.e latitue and longitude of the current location; drawing the map with an available API and providing attributes to those to make it look properly fit into the screen as wanted; Creating a marker which represents the current location of the user; Creating a popup to show the place name when clicked on the marker; to get the weather information with the help of another available API, fetching the details and displaying them for particular locations when clicked.
