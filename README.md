@@ -8,7 +8,7 @@ This application gives the location and whether details of the place clicked on 
 * The available APIs are fetched for the map design and the weather details of the all the locations respectively.
 * The fetched API is taken as an input in the form of JSON data and the parsed into javascript object.
 ## Usage
-* Whenever the user clicks on any point on the map, the location details of that point is diplayed on the screen.
+* Whenever the user clicks on any point on the map, the location and whether details of that point is diplayed on the screen.
 * Location details would include - City name, humidity, temparature, maximum temparature, minimum temparature, pressure, latitude, longitude etc,.
 * In the developers' view, when we inspect the website, and when it is running, the javascript object containing all the current location details is displayed in the console.
 * Also, the latitude and the longitude of the place where the mouse pointer is clicked, is displayed in the console.
